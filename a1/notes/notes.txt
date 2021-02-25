@@ -1,0 +1,18 @@
+##PERSONALIZATION app
+##///////////////////////
+##Dentro de este ambito lo que nos interesa es personalizar algunos aspectos de la app en angular
+el primero ha sido personalizar el favicon que aparece en la pestana
+de momento hemos probado con imagenes PNG, sin embargo quiza
+lo que debemos es mostrar imagenes no tan detalladas ya que estamos
+usando un software online el cual nos da creando los favicon en sus diferentes
+versiones
+de ello adjuntamos the next link
+https://favicon.io/favicon-converter/
+pero el icono que en este caso es el escudo de Cuenca
+no se muestra bien detallado.
+La ultima vez usamos inkscape con el formato A5 y casi el 70% de 
+este formato, y luego de exportarlo a imagen PNG y subirla a la
+plataforma para su conversion, lamentablemente el resultado fue el mismo
+una imagen borrosa que ahora es el icono de la app, hasta que podamos mejorar
+
+
