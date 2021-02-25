@@ -1,0 +1,5 @@
+#git ignore para los proyectos de angular dentro de este repositorio
+
+#dependencies
+/a1/node_modules
+
